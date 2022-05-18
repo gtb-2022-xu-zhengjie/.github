@@ -19,5 +19,5 @@ although rarely has a good taste, let's just end with them
 ![p4](assets/photography4.jpg)
 ![p5](assets/photography5.jpg)
 ![p6](assets/photography6.jpg)
-![p7](assets/photography7.jpg)
+![p7](assets/photography7.png)
 ![p8](assets/photography8.jpg)
